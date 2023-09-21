@@ -75,3 +75,4 @@ class Patches:
 on_app_started(
     lambda demo, app: Patches(demo, app)
 )
+)
